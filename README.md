@@ -13,7 +13,6 @@ Evaluation: Performance assessment using metrics like RMSE and MAE.
 
 Documentation: Detailed explanations of methodologies and results.
 
-Video: 6006CEM.mp4 
 
 
 URL of the Datasets: https://www.kaggle.com/datasets/luisvivas/spain-portugal-weather
